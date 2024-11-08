@@ -1,7 +1,8 @@
 # Lens Text Copier
-![](./ubuntu-lens.jpg)
+<img src="./ubuntu-lens.png" alt="Screenshot Example" width="50"/></br>
 
 This script captures a screenshot of a selected area, performs OCR (Optical Character Recognition) on the image, and copies the recognized text to the clipboard. It's especially useful for quickly grabbing text from the screen without needing to type it manually.
+
 
 ## Requirements
 
